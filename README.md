@@ -5,8 +5,7 @@ This is React.js based project which gives the interactive user interface of dif
 The News Lobby project is a ReactJS-based web application that provides users with access to a variety of news articles from different categories. The project is designed to be user-friendly and informative, and it features a number of features that make it easy for users to find and read the news that is most important to them. 
 
 # Tech Stack
-![image](https://github.com/Prabhat1225/NewsLobby/assets/107301804/aaf116b9-a4d0-4658-81d2-dbd0aab8dd37)
-![image](https://github.com/Prabhat1225/NewsLobby/assets/107301804/63542667-d9a8-43ba-9999-8e8f5233c153)
+![image](https://github.com/Prabhat1225/NewsLobby/assets/107301804/9e5fad86-fcc7-49f7-90dc-518f3d7029d6)
 ![image](https://github.com/Prabhat1225/NewsLobby/assets/107301804/464ff3d5-f2a9-452f-a761-a5dc385478f9)
 
 
